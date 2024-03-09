@@ -80,7 +80,8 @@ public class RollAball : MonoBehaviour
 ```
 ## Output :
 
-![alt text](image.png)
+![image](https://github.com/Lingeswaran04/Exp02-RollABall/assets/119103865/675b9f0c-7d53-4a7c-9339-f2d97e09c7b9)
+
 
 ## Result:
 
